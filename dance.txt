@@ -1,4 +1,5 @@
 step left.
 step right.
 jump up and down.
+roll your hands.
 move yourself.
